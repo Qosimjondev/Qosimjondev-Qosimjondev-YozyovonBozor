@@ -35,7 +35,7 @@ $this->title = 'Yozyovon Online Bozor';
         <div class="hero-carousel__slide">
           <img src="img/home/hero-slide1.png" alt="" class="img-fluid">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Wireless Headphonkdfkjhkvjkdjfkdjgdkkdk</h3>
+            <h3>Wireless</h3>
             <p>Accessories Item</p>
           </a>
         </div>
@@ -78,7 +78,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Accessories</p>
                 <h4 class="card-product__title"><a href="single-product.html">Quartz Belt Watch</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$100.00</p>
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Beauty</p>
                 <h4 class="card-product__title"><a href="single-product.html">Women Freshwash</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$200.00</p>
               </div>
             </div>
           </div>
