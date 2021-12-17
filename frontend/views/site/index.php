@@ -18,7 +18,7 @@ $this->title = 'Yozyovon Online Bozor';
           </div>
           <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
             <div class="hero-banner__content">
-              <h4>Harid uchun</h4>
+              <h4>Haridlar uchun</h4>
               <h1>Browse Our Premium Product</h1>
               <p>Us which over of signs divide dominion deep fill bring they're meat beho upon own earth without morning over third. Their male dry. They are great appear whose land fly grass.</p>
               <a class="button button-hero" href="#">Hoziroq ko'rish</a>
@@ -35,7 +35,7 @@ $this->title = 'Yozyovon Online Bozor';
         <div class="hero-carousel__slide">
           <img src="img/home/hero-slide1.png" alt="" class="img-fluid">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Wireless Headphone</h3>
+            <h3>Wireless Headphoneeeeeeeeeee</h3>
             <p>Accessories Item</p>
           </a>
         </div>
