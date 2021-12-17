@@ -112,7 +112,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Decor</p>
                 <h4 class="card-product__title"><a href="single-product.html">Room Flash Light</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$170.00</p>
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Decor</p>
                 <h4 class="card-product__title"><a href="single-product.html">Room Flash Light</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$160.00</p>
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Accessories</p>
                 <h4 class="card-product__title"><a href="single-product.html">Man Office Bag</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$180.00</p>
               </div>
             </div>
           </div>
