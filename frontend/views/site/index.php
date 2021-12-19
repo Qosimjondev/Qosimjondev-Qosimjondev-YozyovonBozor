@@ -18,10 +18,10 @@ $this->title = 'Yozyovon Online Bozor';
           </div>
           <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
             <div class="hero-banner__content">
-              <h4>Shop is fun</h4>
-              <h1>Browse Our Premium Product</h1>
+              <h4>Do'kon qiziqarli</h4>
+              <h1>PREMIUM MAHSULOTIMIZNI KO'RING</h1>
               <p>Us which over of signs divide dominion deep fill bring they're meat beho upon own earth without morning over third. Their male dry. They are great appear whose land fly grass.</p>
-              <a class="button button-hero" href="#">Browse Now</a>
+              <a class="button button-hero" href="#">Ko'rish</a>
             </div>
           </div>
         </div>
@@ -61,8 +61,8 @@ $this->title = 'Yozyovon Online Bozor';
     <section class="section-margin calc-60px">
       <div class="container">
         <div class="section-intro pb-60px">
-          <p>Popular Item in the market</p>
-          <h2>Trending <span class="section-intro__style">Product</span></h2>
+          <p>Bozordagi mashhur mahsulot</p>
+          <h2>Trenddagi <span class="section-intro__style">mahsulot</span></h2>
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-4 col-xl-3">
@@ -76,8 +76,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Accessories</p>
-                <h4 class="card-product__title"><a href="single-product.html">Quartz Belt Watch</a></h4>
+                <p>Aksessuarlar</p>
+                <h4 class="card-product__title"><a href="single-product.html">Kvars kamar soati</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
             </div>
@@ -93,8 +93,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Beauty</p>
-                <h4 class="card-product__title"><a href="single-product.html">Women Freshwash</a></h4>
+                <p>Go'zallik</p>
+                <h4 class="card-product__title"><a href="single-product.html">Ayollar uchun yangi KREM</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
             </div>
@@ -110,8 +110,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Decor</p>
-                <h4 class="card-product__title"><a href="single-product.html">Room Flash Light</a></h4>
+                <p>Dekor</p>
+                <h4 class="card-product__title"><a href="single-product.html">Xona chirog'i</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
             </div>
@@ -127,7 +127,7 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Decor</p>
+                <p>Deco</p>
                 <h4 class="card-product__title"><a href="single-product.html">Room Flash Light</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
@@ -144,8 +144,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Accessories</p>
-                <h4 class="card-product__title"><a href="single-product.html">Man Office Bag</a></h4>
+                <p>Aksessuarlar</p>
+                <h4 class="card-product__title"><a href="single-product.html">Erkaklar uchun ofis sumkasi</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
             </div>
@@ -161,8 +161,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Kids Toy</p>
-                <h4 class="card-product__title"><a href="single-product.html">Charging Car</a></h4>
+                <p>Bolalar o'yinchoqlari</p>
+                <h4 class="card-product__title"><a href="single-product.html">o'yinchog'</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
             </div>
@@ -178,8 +178,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Accessories</p>
-                <h4 class="card-product__title"><a href="single-product.html">Blutooth Speaker</a></h4>
+                <p>Aksasuverlar</p>
+                <h4 class="card-product__title"><a href="single-product.html">Blutooth dinamik</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div> 
             </div>
@@ -195,8 +195,8 @@ $this->title = 'Yozyovon Online Bozor';
                 </ul>
               </div>
               <div class="card-body">
-                <p>Kids Toy</p>
-                <h4 class="card-product__title"><a href="#">Charging Car</a></h4>
+                <p>Bolalar o'yinchog'</p>
+                <h4 class="card-product__title"><a href="#">Car</a></h4>
                 <p class="card-product__price">$150.00</p>
               </div>
             </div>
@@ -213,9 +213,9 @@ $this->title = 'Yozyovon Online Bozor';
         <div class="row">
           <div class="col-xl-5">
             <div class="offer__content text-center">
-              <h3>Up To 50% Off</h3>
-              <h4>Winter Sale</h4>
-              <p>Him she'd let them sixth saw light</p>
+              <h3>50% gacha chegirma</h3>
+              <h4>Qish sotuvi</h4>
+              <p></p>
               <a class="button button--active mt-3 mt-xl-4" href="#">Shop Now</a>
             </div>
           </div>
@@ -228,8 +228,9 @@ $this->title = 'Yozyovon Online Bozor';
     <section class="section-margin calc-60px">
       <div class="container">
         <div class="section-intro pb-60px">
-          <p>Popular Item in the market</p>
-          <h2>Best <span class="section-intro__style">Sellers</span></h2>
+          <p>
+Bozordagi mashhur mahsulot</p>
+          <h2>Eng yaxshi <span class="section-intro__style">Sotuvchilar</span></h2>
         </div>
         <div class="owl-carousel owl-theme" id="bestSellerCarousel">
           <div class="card text-center card-product">
@@ -242,8 +243,8 @@ $this->title = 'Yozyovon Online Bozor';
               </ul>
             </div>
             <div class="card-body">
-              <p>Accessories</p>
-              <h4 class="card-product__title"><a href="single-product.html">Quartz Belt Watch</a></h4>
+              <p>Aksasuverlar</p>
+              <h4 class="card-product__title"><a href="single-product.html">Kvars kamar soati</a></h4>
               <p class="card-product__price">$150.00</p>
             </div>
           </div>
@@ -258,7 +259,7 @@ $this->title = 'Yozyovon Online Bozor';
               </ul>
             </div>
             <div class="card-body">
-              <p>Beauty</p>
+              <p>Go'zalik</p>
               <h4 class="card-product__title"><a href="single-product.html">Women Freshwash</a></h4>
               <p class="card-product__price">$150.00</p>
             </div>
@@ -368,8 +369,8 @@ $this->title = 'Yozyovon Online Bozor';
     <section class="blog">
       <div class="container">
         <div class="section-intro pb-60px">
-          <p>Popular Item in the market</p>
-          <h2>Latest <span class="section-intro__style">News</span></h2>
+          <p>Bozordagi mashhur mahsulot</p>
+          <h2>Oxirgi <span class="section-intro__style">Yangilik</span></h2>
         </div>
 
         <div class="row">

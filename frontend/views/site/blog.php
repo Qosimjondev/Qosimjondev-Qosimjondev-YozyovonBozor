@@ -14,10 +14,10 @@ $this->params['breadcrumbs'][] = $this->title;
                 <div class="categories_details">
                     <div class="categories_text">
                         <a href="single-blog.html">
-                            <h5>Social Life</h5>
+                            <h5>Ijtimoiy hayot</h5>
                         </a>
                         <div class="border_line"></div>
-                        <p>Enjoy your social life together</p>
+                        <p>Birgalikda ijtimoiy hayotdan zavqlaning</p>
                     </div>
                 </div>
             </div>
@@ -28,10 +28,10 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="categories_details">
               <div class="categories_text">
                 <a href="single-blog.html">
-                    <h5>Politics</h5>
+                    <h5>Siyosat</h5>
                 </a>
                 <div class="border_line"></div>
-                <p>Be a part of politics</p>
+                <p>Siyosatning bir qismi bo'ling</p>
               </div>
             </div>
           </div>
@@ -42,10 +42,10 @@ $this->params['breadcrumbs'][] = $this->title;
                 <div class="categories_details">
                     <div class="categories_text">
                         <a href="single-blog.html">
-                            <h5>Food</h5>
+                            <h5>Ovqat</h5>
                         </a>
                         <div class="border_line"></div>
-                        <p>Let the food be finished</p>
+                        <p>Ovqat tayyor bo'lsin</p>
                     </div>
                 </div>
             </div>
@@ -66,18 +66,18 @@ $this->params['breadcrumbs'][] = $this->title;
                               <div class="blog_info text-right">
                                   <div class="post_tag">
                                       <a href="#">Food,</a>
-                                      <a class="active" href="#">Technology,</a>
-                                      <a href="#">Politics,</a>
-                                      <a href="#">Lifestyle</a>
+                                      <a class="active" href="#">Texnologiya</a>
+                                      <a href="#">Siyosat,</a>
+                                      <a href="#">Hayot tarzi</a>
                                   </div>
                                   <ul class="blog_meta list">
                                       <li>
-                                          <a href="#">Mark wiens
+                                          <a href="#">Mark Viens
                                               <i class="lnr lnr-user"></i>
                                           </a>
                                       </li>
                                       <li>
-                                          <a href="#">12 Dec, 2017
+                                          <a href="#">19 Dec, 2021
                                               <i class="lnr lnr-calendar-full"></i>
                                           </a>
                                       </li>
@@ -99,12 +99,12 @@ $this->params['breadcrumbs'][] = $this->title;
                                   <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
                                   <div class="blog_details">
                                       <a href="single-blog.html">
-                                          <h2>Astronomy Binoculars A Great Alternative</h2>
+                                          <h2>Astronomiya durbinlari ajoyib alternativ</h2>
                                       </a>
-                                      <p>MCSE boot camps have its supporters and its detractors. Some people do not understand
-                                          why you should have to spend money on boot camp when you can get the MCSE study
-                                          materials yourself at a fraction.</p>
-                                      <a class="button button-blog" href="single-blog.html">View More</a>
+                                      <p>MCSE o'quv lagerlarining o'z tarafdorlari va qoralovchilari bor. Ba'zilar tushunmaydi
+                                          Nima uchun siz MCSE o'qishini olishingiz mumkin bo'lsa, o'quv lageriga pul sarflashingiz kerak
+                                          materiallarni o'zingiz qisman.</p>
+                                      <a class="button button-blog" href="single-blog.html">Boshqaruv panelida koʻproq avtomatik ijro opsiyalarini koʻring</a>
                                   </div>
                               </div>
                           </div>
@@ -114,9 +114,9 @@ $this->params['breadcrumbs'][] = $this->title;
                               <div class="blog_info text-right">
                                   <div class="post_tag">
                                       <a href="#">Food,</a>
-                                      <a class="active" href="#">Technology,</a>
-                                      <a href="#">Politics,</a>
-                                      <a href="#">Lifestyle</a>
+                                      <a class="active" href="#">Texnalogiya</a>
+                                      <a href="#">Siyosat</a>
+                                      <a href="#">Hayot tarzi</a>
                                   </div>
                                   <ul class="blog_meta list">
                                       <li>
@@ -125,7 +125,7 @@ $this->params['breadcrumbs'][] = $this->title;
                                           </a>
                                       </li>
                                       <li>
-                                          <a href="#">12 Dec, 2017
+                                          <a href="#">20 Dec, 2021
                                               <i class="lnr lnr-calendar-full"></i>
                                           </a>
                                       </li>
@@ -469,9 +469,9 @@ $this->params['breadcrumbs'][] = $this->title;
                           <div class="br"></div>
                       </aside>
                       <aside class="single-sidebar-widget newsletter_widget">
-                          <h4 class="widget_title">Newsletter</h4>
+                          <h4 class="widget_title">Yangilik xati</h4>
                           <p>
-                              Here, I focus on a range of items and features that we use in life without giving them a second thought.
+                          Bu erda men hayotda foydalanadigan bir qator narsalar va xususiyatlar haqida o'ylamasdan, ularga e'tibor qaratmoqdaman.
                           </p>
                           <div class="form-group d-flex flex-row">
                               <div class="input-group">
@@ -483,49 +483,31 @@ $this->params['breadcrumbs'][] = $this->title;
                                   <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Enter email address" onfocus="this.placeholder = ''"
                                       onblur="this.placeholder = 'Enter email'">
                               </div>
-                              <a href="#" class="bbtns">Subcribe</a>
+                              <a href="#" class="bbtns">Obuna bo'lish</a>
                           </div>
-                          <p class="text-bottom">You can unsubscribe at any time</p>
+                          <p class="text-bottom">Istalgan vaqtda obunani bekor qilishingiz mumkin</p>
                           <div class="br"></div>
                       </aside>
                       <aside class="single-sidebar-widget tag_cloud_widget">
-                          <h4 class="widget_title">Tag Clouds</h4>
+                          <h4 class="widget_title">Teg bulutlari</h4>
                           <ul class="list">
                               <li>
-                                  <a href="#">Technology</a>
+                                  <a href="#">Texnalogiya</a>
                               </li>
                               <li>
-                                  <a href="#">Fashion</a>
+                                  <a href="#">Moda</a>
                               </li>
                               <li>
-                                  <a href="#">Architecture</a>
+                                  <a href="#">Arxitektura</a>
                               </li>
                               <li>
-                                  <a href="#">Fashion</a>
+                                  <a href="#">OVQAT</a>
                               </li>
                               <li>
-                                  <a href="#">Food</a>
+                                  <a href="#">Texnalogiya</a>
                               </li>
                               <li>
-                                  <a href="#">Technology</a>
-                              </li>
-                              <li>
-                                  <a href="#">Lifestyle</a>
-                              </li>
-                              <li>
-                                  <a href="#">Art</a>
-                              </li>
-                              <li>
-                                  <a href="#">Adventure</a>
-                              </li>
-                              <li>
-                                  <a href="#">Food</a>
-                              </li>
-                              <li>
-                                  <a href="#">Lifestyle</a>
-                              </li>
-                              <li>
-                                  <a href="#">Adventure</a>
+                                  <a href="#">Hayot tarzi</a>
                               </li>
                           </ul>
                       </aside>
@@ -540,7 +522,7 @@ $this->params['breadcrumbs'][] = $this->title;
   <section class="instagram_area">
     <div class="container box_1620">
       <div class="insta_btn">
-        <a class="btn theme_btn" href="#">Follow us on instagram</a>
+        <a class="btn theme_btn" href="#">Bizni instagramda kuzatib boring</a>
       </div>
       <div class="instagram_image row m0">
         <a href="#"><img src="img/instagram/ins-1.jpg" alt=""></a>
