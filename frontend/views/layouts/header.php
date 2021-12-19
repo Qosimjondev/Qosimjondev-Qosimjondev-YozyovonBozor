@@ -16,7 +16,11 @@
           </button>
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav ml-auto mr-auto">
+<<<<<<< .mine
               <li class="nav-item"><a class="nav-link" href="index.html">Bosh sahifa</a></li>
+=======
+              <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/index'])?>">Home</a></li>
+>>>>>>> .theirs
               <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                   aria-expanded="false">Do'kon</a>
@@ -40,12 +44,22 @@
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                   aria-expanded="false">Sahifa</a>
                 <ul class="dropdown-menu">
+<<<<<<< .mine
                   <li class="nav-item"><a class="nav-link" href="login.html">Kirish</a></li>
                   <li class="nav-item"><a class="nav-link" href="register.html">Ro'hatdan o'tish</a></li>
                   <li class="nav-item"><a class="nav-link" href="tracking-order.html">Kuzatuv</a></li>
+=======
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/login'])?>">Login</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/register'])?>">Register</a></li>
+                  <li class="nav-item"><a class="nav-link" href="tracking-order.html">Tracking</a></li>
+>>>>>>> .theirs
                 </ul>
               </li>
+<<<<<<< .mine
               <li class="nav-item active"><a class="nav-link" href="contact.html">Aloqa</a></li>
+=======
+              <li class="nav-item active"><a class="nav-link" href="<?=Url::to(['site/contact'])?>">Contact</a></li>
+>>>>>>> .theirs
             </ul>
 
             <ul class="nav-shop">

@@ -18,10 +18,19 @@ $this->title = 'Yozyovon Online Bozor';
           </div>
           <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
             <div class="hero-banner__content">
+<<<<<<< .mine
               <h4>Do'kon qiziqarli</h4>
               <h1>PREMIUM MAHSULOTIMIZNI KO'RING</h1>
+=======
+              <h4>Haridlar uchun</h4>
+              <h1>Browse Our Premium Product</h1>
+>>>>>>> .theirs
               <p>Us which over of signs divide dominion deep fill bring they're meat beho upon own earth without morning over third. Their male dry. They are great appear whose land fly grass.</p>
+<<<<<<< .mine
               <a class="button button-hero" href="#">Ko'rish</a>
+=======
+              <a class="button button-hero" href="#">Hoziroq ko'rish</a>
+>>>>>>> .theirs
             </div>
           </div>
         </div>
@@ -35,7 +44,7 @@ $this->title = 'Yozyovon Online Bozor';
         <div class="hero-carousel__slide">
           <img src="img/home/hero-slide1.png" alt="" class="img-fluid">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Wireless Headphone</h3>
+            <h3>Wireless</h3>
             <p>Accessories Item</p>
           </a>
         </div>
@@ -78,7 +87,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Aksessuarlar</p>
                 <h4 class="card-product__title"><a href="single-product.html">Kvars kamar soati</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$100.00</p>
               </div>
             </div>
           </div>
@@ -95,7 +104,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Go'zallik</p>
                 <h4 class="card-product__title"><a href="single-product.html">Ayollar uchun yangi KREM</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$200.00</p>
               </div>
             </div>
           </div>
@@ -112,7 +121,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Dekor</p>
                 <h4 class="card-product__title"><a href="single-product.html">Xona chirog'i</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$170.00</p>
               </div>
             </div>
           </div>
@@ -129,7 +138,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Deco</p>
                 <h4 class="card-product__title"><a href="single-product.html">Room Flash Light</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$160.00</p>
               </div>
             </div>
           </div>
@@ -146,7 +155,7 @@ $this->title = 'Yozyovon Online Bozor';
               <div class="card-body">
                 <p>Aksessuarlar</p>
                 <h4 class="card-product__title"><a href="single-product.html">Erkaklar uchun ofis sumkasi</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p class="card-product__price">$180.00</p>
               </div>
             </div>
           </div>
