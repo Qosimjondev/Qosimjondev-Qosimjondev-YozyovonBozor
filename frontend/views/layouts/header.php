@@ -16,20 +16,20 @@
           </button>
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav ml-auto mr-auto">
-<<<<<<< .mine
-              <li class="nav-item"><a class="nav-link" href="index.html">Bosh sahifa</a></li>
-=======
+
+              <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/index'])?>">Bosh sahifa</a></li>
+
               <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/index'])?>">Home</a></li>
->>>>>>> .theirs
+
               <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                   aria-expanded="false">Do'kon</a>
                 <ul class="dropdown-menu">
-                  <li class="nav-item"><a class="nav-link" href="category.html">Do'kon toifasi</a></li>
-                  <li class="nav-item"><a class="nav-link" href="single-product.html">Blog tafsilotlari</a></li>
-                  <li class="nav-item"><a class="nav-link" href="checkout.html">Mahsulotlarni tekshirish</a></li>
-                  <li class="nav-item"><a class="nav-link" href="confirmation.html">Tasdiqlash</a></li>
-                  <li class="nav-item"><a class="nav-link" href="cart.html">Xarid savati</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Do'kon toifasi</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Blog tafsilotlari</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Mahsulotlarni tekshirish</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Tasdiqlash</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Xarid savati</a></li>
                 </ul>
 							</li>
               <li class="nav-item submenu dropdown">
@@ -37,29 +37,28 @@
                   aria-expanded="false">Blog</a>
                 <ul class="dropdown-menu">
                   <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/blog'])?>">Blog</a></li>
-                  <li class="nav-item"><a class="nav-link" href="single-blog.html">Blog tafsilotlari</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Blog tafsilotlari</a></li>
                 </ul>
 							</li>
 							<li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                   aria-expanded="false">Sahifa</a>
                 <ul class="dropdown-menu">
-<<<<<<< .mine
-                  <li class="nav-item"><a class="nav-link" href="login.html">Kirish</a></li>
-                  <li class="nav-item"><a class="nav-link" href="register.html">Ro'hatdan o'tish</a></li>
-                  <li class="nav-item"><a class="nav-link" href="tracking-order.html">Kuzatuv</a></li>
-=======
+
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/login'])?>">Kirish</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#">Ro'hatdan o'tish</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Kuzatuv</a></li>
+
                   <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/login'])?>">Login</a></li>
                   <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/register'])?>">Register</a></li>
-                  <li class="nav-item"><a class="nav-link" href="tracking-order.html">Tracking</a></li>
->>>>>>> .theirs
+                  <li class="nav-item"><a class="nav-link" href="<?=Url::to(['site/#'])?>">Tracking</a></li>
                 </ul>
               </li>
-<<<<<<< .mine
-              <li class="nav-item active"><a class="nav-link" href="contact.html">Aloqa</a></li>
-=======
+
+              <li class="nav-item active"><a class="nav-link" href="<?=Url::to(['site/contact'])?>">Aloqa</a></li>
+
               <li class="nav-item active"><a class="nav-link" href="<?=Url::to(['site/contact'])?>">Contact</a></li>
->>>>>>> .theirs
+
             </ul>
 
             <ul class="nav-shop">
